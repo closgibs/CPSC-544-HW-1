@@ -1,0 +1,25 @@
+HW1 Report
+
+• A title page 
+• Revision History (that shows who did what, when, ...) (a table format is fine.) 
+• Table of Contents (chapter titles, page numbers) 
+• Process Defined for the Project (define your process within 2-3 pages as described above) 
+• Definition of Work-Products, Roles and Practices ( 1 - 2 pages for each )
+* Pre-Game: Planning and Staging 
+  * Vision (1-2 pages total)
+  * Stakeholders 
+  * Requirements (2 - 3 pages total)
+    - Fuctional (5 FRs) 
+    - Non-Functional (5 NFRs)
+  * User Stories for Planning
+  * Product Backlog and Estimates
+  * Architectural Spike
+  * Release Planning
+  * Technology Preparation (1-2 pages)
+* Developement (1-2 pages) -- detail sprints
+* Release (1-2 pages) -- Documenation
+* Other Activites (1-2 pages)
+* Lesson Learned (1-2 pages)
+* Reference List
+* Team Charter
+* Team Evaluation
